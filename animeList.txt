@@ -1,0 +1,6 @@
+drama:      nana, Kyoukai no kanata, Gakuen Alice
+    dagger
+mystery:    death note, fruits basket, ReLife
+    
+romance:    peach girl, say i love you, Ouran Highschool Host Club
+    black rose

@@ -1,0 +1,46 @@
+:root {
+    font-smooth: never;
+    -webkit-font-smoothing : none;
+}
+
+body {
+    background: url('img/6BKeOMS.jpg') center fixed no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: 	#660099;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.icon {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none; 
+    color: white;
+    font-family: "Pixelated MS Sans Serif",Arial;
+    font-size: 22px;
+    margin: 32px;
+}
+.icon:visited {
+    text-decoration: none; 
+    color: white;
+}
+.iconimg {
+    height: 64px;
+}
+
+/*.winwrapper{
+    position: absolute; 
+    top: 0; 
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}*/
+.window {
+    margin: 32px 5%;
+}
+
+.title-bar, .window, button, input, label, option, select, table, textarea, ul.tree-view {
+    font-size: 15px !important;
+}
